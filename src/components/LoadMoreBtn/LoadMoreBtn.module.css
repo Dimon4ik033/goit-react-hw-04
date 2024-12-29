@@ -1,0 +1,16 @@
+.loadMoreBtn {
+    width: 170px;
+    height: 40px;
+    cursor: pointer;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: 0;
+    color: white;
+    background-color: blue;
+}
+
+.loadMoreBtn:hover {
+    transition: 0.5s;
+    background-color: cyan;
+    color: grey;
+}
